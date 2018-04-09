@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="jars/jaf_101.jar"/>
+	<classpathentry kind="lib" path="jars/jakarta-regexp-1.2.jar"/>
+	<classpathentry kind="lib" path="jars/jdom-b7.jar"/>
+	<classpathentry kind="lib" path="jars/mail_113.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="jars/classes12_817_1.zip"/>
+	<classpathentry kind="lib" path="jars/jsp-api-tomcat5028.jar"/>
+	<classpathentry kind="lib" path="jars/servlet-api-tomcat5028.jar"/>
+	<classpathentry kind="lib" path="jars/commons-fileupload-1.2.jar"/>
+	<classpathentry kind="lib" path="jars/xalan2_jaxp11.jar"/>
+	<classpathentry kind="lib" path="jars/commons-codec-1.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

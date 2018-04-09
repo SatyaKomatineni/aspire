@@ -1,0 +1,65 @@
+Difference Report
+Project: $/aspire_projects/aspire_jsdk21
+Working Folder: G:\CB\ASPIRE_PROJECTS\ASPIRE_JSDK21
+
+Local:
+   com\ai\aspire\context
+   com\ai\common\ITranslatorHashtable.java
+   com\ai\htmlgen\GTEvaluator.java
+   com\ai\htmlgen\IBooleanExpressionEvaluator.java
+   com\ai\htmlgen\SimpleBEEvaluator.java
+   com\ai\test\PropertyFileProcessor.java
+   com\ai\xml\AITransform2.java
+
+Project:
+   com/csx
+
+Modified:
+   com/ai/application/defaultpkg/CLog.java
+   com/ai/aspire/AspireReleaseNotes.java
+   com/ai/aspire/AspireReleases.java
+   com/ai/common/FileUtils.java
+   com/ai/common/RequestTask.java
+   com/ai/common/Tokenizer.java
+   com/ai/db/DBBaseJavaProcedure.java
+   com/ai/export/Exporter.java
+   com/ai/servletutils/SessionUtils.java
+
+*****************************************
+Details
+*****************************************
+Local:
+   com\ai\aspire\context
+	// Introduced for handling SessionObject support
+  
+   com\ai\common\ITranslatorHashtable.java
+
+   // The following files have been introduced for if (func) support
+   com\ai\htmlgen\GTEvaluator.java
+   com\ai\htmlgen\IBooleanExpressionEvaluator.java
+   com\ai\htmlgen\SimpleBEEvaluator.java
+
+   com\ai\test\PropertyFileProcessor.java
+	// To process property files for jsp conversion etc.
+
+   com\ai\xml\AITransform2.java
+	// To support if (func) support
+
+Project:
+   com/csx
+
+Modified:
+   com/ai/application/defaultpkg/CLog.java
+   com/ai/aspire/AspireReleaseNotes.java
+   com/ai/aspire/AspireReleases.java
+   com/ai/common/FileUtils.java
+
+   com/ai/common/RequestTask.java
+	// Corrected for exception treatment
+
+   com/ai/common/Tokenizer.java
+   com/ai/db/DBBaseJavaProcedure.java
+	// Corrected for exceptions
+
+   com/ai/export/Exporter.java
+   com/ai/servletutils/SessionUtils.java

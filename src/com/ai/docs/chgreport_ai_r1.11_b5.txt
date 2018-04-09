@@ -1,0 +1,72 @@
+Difference Report
+Project: $/cb/com/ai
+Working Folder: G:\CB\com\ai
+
+Local:
+   jsp
+   common\AsyncRequestExecutor.java
+   common\RequestTask.java
+   htmlgen\AReportCalculator.java
+   htmlgen\GenericTableHandler3.java
+   htmlgen\IAIHttpTransform.java
+   htmlgen\IControlHandler2.java
+   htmlgen\IReportTotalsCalculator.java
+   htmlgen\IReportTotal
+   htmlgen\test\out.html.lnk
+   htmlgen\test\TestReportCalculator.java
+   servletutils\CURL.java
+   servletutils\IURL.java
+
+Project:
+
+Modified:
+   aspire/AspireReleases.java
+   common/AICalendar.java
+   db/DBBaseJavaProcedure.java
+   htmlgen/DBHashTableFormHandler.java
+   htmlgen/test/out.html
+   htmlgen/test/TestHtmlGen.java
+   servlets/AppInitServlet.java
+   servlets/DefaultSessionSupport.java
+
+Details
+**********
+Local:
+   jsp
+
+// Async execution introduced
+   common\AsyncRequestExecutor.java
+   common\RequestTask.java
+
+// Report totals introduced
+   htmlgen\AReportCalculator.java
+   htmlgen\GenericTableHandler3.java
+   htmlgen\IReportTotalsCalculator.java
+   htmlgen\test\TestReportCalculator.java
+   htmlgen\IControlHandler2.java
+
+   htmlgen\IAIHttpTransform.java
+   htmlgen\IReportTotal
+   htmlgen\test\out.html.lnk
+   servletutils\CURL.java
+   servletutils\IURL.java
+
+Project:
+
+Modified:
+   aspire/AspireReleases.java
+
+// Fix for SimpleDateFormat
+   common/AICalendar.java
+   db/DBBaseJavaProcedure.java
+
+// for report totals
+   htmlgen/DBHashTableFormHandler.java
+   htmlgen/test/out.html
+   htmlgen/test/TestHtmlGen.java
+
+// garbage collection
+   servlets/AppInitServlet.java
+
+// Fixes
+   servlets/DefaultSessionSupport.java

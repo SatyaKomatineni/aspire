@@ -1,0 +1,56 @@
+Difference Report
+Project: $/aspire_projects/aspire_jsdk21
+Working Folder: G:\CB\ASPIRE_PROJECTS\ASPIRE_JSDK21
+
+Local:
+   com\ai\asprie
+   com\ai\application\defaultpkg\vssver.scc
+   com\ai\application\interfaces\vssver.scc
+   com\ai\aspire\vssver.scc
+   com\ai\aspire\authentication\SimpleDBAuthentication.java
+   com\ai\common\vssver.scc
+   com\ai\data\VectorDataRowIterator.java
+   com\ai\data\vssver.scc
+   com\ai\db\vssver.scc
+   com\ai\htmlgen\test\vssver.scc
+   com\ai\servlets\vssver.scc
+   com\ai\test\CommandRequest.java
+   com\ai\test\vssver.scc
+   com\ai\testservlets\vssver.scc
+
+Project:
+   com/csx
+
+Modified:
+   com/ai/application/test/TestIApp.java
+   com/ai/aspire/AspireReleaseNotes.java
+   com/ai/aspire/AspireReleases.java
+   com/ai/data/Collection1DataFilter.java
+   com/ai/data/EmptyDataCollection.java
+   com/ai/data/IDataCollection.java
+   com/ai/data/VectorDataCollection.java
+   com/ai/db/DBRSCollection.java
+   com/ai/db/DBRSCollection1.java
+   com/ai/db/RSDataRow.java
+   com/ai/db/RSDataRowIterator.java
+   com/ai/db/sequences/AccessSequenceGenerator.java
+   com/ai/filters/EmptySetValidator.java
+   com/ai/filters/MultiRowToSingleRowFilter.java
+   com/ai/filters/SingleRowToHashtableConverter.java
+   com/ai/filters/SplitRequestExecutor.java
+   com/ai/htmlgen/DBHashTableFormHandler.java
+   com/ai/htmlgen/GenericFormHandler.java
+   com/ai/htmlgen/GenericTableHandler.java
+   com/ai/htmlgen/GenericTableHandler1.java
+   com/ai/htmlgen/GenericTableHandler2.java
+   com/ai/htmlgen/GenericTableHandler3.java
+   com/ai/htmlgen/GenericTableHandler31.java
+   com/ai/htmlgen/GenericTableHandler5.java
+   com/ai/htmlgen/RandomTableHandler5.java
+   com/ai/htmlgen/test/TestHtmlGen.java
+   com/ai/test/TestCollection.java
+   com/ai/test/TestMain.java
+   com/ai/testservlets/PopulateGroup3.java
+   com/ai/xml/ClassicXSLTransform.java
+   com/ai/xml/XSLTransform.java
+

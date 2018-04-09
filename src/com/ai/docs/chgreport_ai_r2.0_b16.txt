@@ -1,0 +1,62 @@
+Difference Report
+Project: $/aspire_projects/aspire_jsdk21
+Working Folder: G:\CB\ASPIRE_PROJECTS\ASPIRE_JSDK21
+
+Local:
+   com\ai\application\defaultpkg\vssver.scc
+   com\ai\application\interfaces\vssver.scc
+   com\ai\aspire\vssver.scc
+   com\ai\aspire\examples
+   com\ai\common\CompoundField.java
+   com\ai\common\ConfigDictionary.java
+   com\ai\common\GeneralArgSubstitutor.java
+   com\ai\common\GeneralTranslator.java
+   com\ai\common\IteratorConverter.java
+   com\ai\common\IteratorEnumerator.java
+   com\ai\common\ITranslator1.java
+   com\ai\common\MapDictionary.java
+   com\ai\common\vssver.scc
+   com\ai\data\vssver.scc
+   com\ai\db\vssver.scc
+   com\ai\htmlgen\DUpdateFormHandler.java
+   com\ai\htmlgen\IUpdatableFormHandler.java
+   com\ai\htmlgen\test\vssver.scc
+   com\ai\servlets\DSetHeaders.java
+   com\ai\servlets\ISetHeaders.java
+   com\ai\servlets\vssver.scc
+   com\ai\test\vssver.scc
+   com\ai\testservlets\vssver.scc
+   com\ai\xml\ClassicXSLTransform.java
+   com\ai\xml\DOMEcho.java
+   com\ai\xml\IXMLOutputter.java
+   com\ai\xml\JDOMXMLOutPutter.java
+
+Project:
+   com/csx
+
+Modified:
+   com/ai/application/defaultpkg/ApplicationHolder.java
+   com/ai/application/defaultpkg/BaseSupport.java
+   com/ai/application/interfaces/ConfigException.java
+   com/ai/aspire/AspireReleaseNotes.java
+   com/ai/aspire/AspireReleases.java
+   com/ai/common/AdaptableArgSubstitutor.java
+   com/ai/common/DDictionary.java
+   com/ai/common/EncodeArgSubstitutor.java
+   com/ai/common/FileUtils.java
+   com/ai/common/IDictionary.java
+   com/ai/common/URLEncodeTranslator.java
+   com/ai/db/DBBaseJavaProcedure.java
+   com/ai/filters/SplitRequestExecutor.java
+   com/ai/htmlgen/DBHashTableFormHandler.java
+   com/ai/htmlgen/GenericTableHandler4.java
+   com/ai/htmlgen/GenericTableHandler5.java
+   com/ai/servlets/AspireConstants.java
+   com/ai/servlets/MultipartRequestExecutorServlet.java
+   com/ai/servlets/PageDispatcherServlet.java
+   com/ai/servlets/RequestExecutorServlet.java
+   com/ai/servlets/RequestExecutorServletT1.java
+   com/ai/servlets/SetHeaders.java
+   com/ai/servletutils/ServletUtils.java
+   com/ai/xml/XMLUtils.java
+

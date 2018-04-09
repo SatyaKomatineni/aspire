@@ -1,0 +1,10 @@
+groupname|expand_command|url|target|nodetype
+RT650|get_locations&tradelane=RT650&test=abcxyz|none|none|group
+RT601|get_locations&tradelane=RT650&test=abcxyz|none|none|group
+RT602|get_locations&tradelane=RT650&test=abcxyz|none|none|group
+RT603|get_locations&tradelane=RT650&test=abcxyz|none|none|group
+RT604|get_locations&tradelane=RT650&test=abcxyz|none|none|group
+RT605|get_locations&tradelane=RT650&test=abcxyz|none|none|group
+RT606|get_locations&tradelane=RT650&test=abcxyz|none|none|group
+RT607|get_locations&tradelane=RT650&test=abcxyz|none|none|group
+RT608|get_locations&tradelane=RT650&test=abcxyz|none|none|group

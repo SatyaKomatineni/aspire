@@ -1,0 +1,61 @@
+Difference Report
+Project: $/cb/com/ai
+Working Folder: G:\CB\com\ai
+
+Local:
+   export
+   importers
+   xml
+   common\ACommandLineApplication.java
+   common\FilenameDateTimeTranslator.java
+   common\ITranslator.java
+   db\bkp
+   docs\Shortcut to Problems.lnk
+   htmlgen\AFormHandlerWithRequestControlHandlers.java
+   htmlgen\ConstructableFormHandler.java
+   htmlgen\GenericTableHandler1.java
+   htmlgen\IAITransform.java
+   htmlgen\IControlHandler1.java
+   htmlgen\IFormHandler1.java
+   htmlgen\test\ai_transform_test.htm
+   jawk\CreateNewLine.java
+
+Project:
+   application/test/TestAppConfig_access.properties
+   application/test/TestAppConfig_oracle_satya.properties
+   application/test/TestAppConfig_oracle_shiva.properties
+   htmlgen/test/bkp
+   htmlgen/test/shiva
+
+Modified:
+   application/defaultpkg/CLog.java
+   application/test/TestAppConfig_satya.properties
+   common/CommonException.java
+   common/FileUtils.java
+   common/SQLArgSubstitutor.java
+   db/ConnectionPoolConnectionManager1.java
+   db/DBBaseJavaProcedure.java
+   db/DBPreTranslateArgsMultiRequestExecutor.java
+   db/DBRequestExecutor.java
+   db/DBRequestExecutor1.java
+   db/DBRSCollection.java
+   db/DBRSCollection1.java
+   db/StoredProcedureExecutor.java
+   docs/problems.xls
+   htmlgen/CFormHandlerWithControlHandlers.java
+   htmlgen/ControlHandlerException.java
+   htmlgen/DBHashTableFormHandler.java
+   htmlgen/GenericFormHandler.java
+   htmlgen/HtmlParser.java
+   htmlgen/IFormHandler.java
+   htmlgen/test/out.html
+   htmlgen/test/selectpr.htm
+   htmlgen/test/TestFormHandler.java
+   servlets/BaseServlet.java
+   servlets/PageDispatcherServlet.java
+   servlets/RequestExecutorServlet.java
+   servlets/VerifyBaseServlet.java
+   servletutils/ServletUtils.java
+   test/TestArgSubstitutor.java
+   test/TestTime.java
+

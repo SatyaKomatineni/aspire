@@ -1,0 +1,30 @@
+Difference Report
+Project: $/cb/com/ai
+Working Folder: G:\CB\com\ai
+
+Local:
+
+Project:
+
+Modified:
+   application/defaultpkg/CLog.java
+   common/FilenameDateTimeTranslator.java
+   common/FileUtils.java
+   db/DBBaseJavaProcedure.java
+	-- To support the "Transfer of collection ownership" feature
+   db/DBPreTranslateArgsMultiRequestExecutor.java
+	-- To support the "Transfer of collection ownership" feature
+   docs/problems.xls
+   export/Exporter.java
+	-- Change for Syncra
+   htmlgen/DBHashTableFormHandler.java
+   htmlgen/test/out.html
+   servlets/AspireConstants.java
+	-- Additional constants added to support the "Transfer of collection ownership" feature
+   servlets/RequestExecutorServlet.java
+   servletutils/ServletUtils.java
+   test/TestTime.java
+   testdata/locations.txt
+   testdata/tradelanes.txt
+   testservlets/PopulateGroup3.java
+

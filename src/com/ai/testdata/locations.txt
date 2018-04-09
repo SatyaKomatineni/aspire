@@ -1,0 +1,7 @@
+groupname|expand_command|url|target|nodetype
+Smyrna,TN,US|GET_REPORTS|none|none|group
+Nashville,TN,US|GET_REPORTS|none|none|group
+Springfield,MO,US|GET_REPORTS|none|none|group
+Canadian,TX,US|GET_REPORTS|none|none|group
+El Mirage,AZ,US|GET_REPORTS|none|none|group
+Yale,TN,US|GET_REPORTS|none|none|group

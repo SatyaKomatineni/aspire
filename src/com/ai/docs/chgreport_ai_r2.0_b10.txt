@@ -1,0 +1,58 @@
+Difference Report
+Project: $/aspire_projects/aspire_jsdk21
+Working Folder: G:\CB\ASPIRE_PROJECTS\ASPIRE_JSDK21
+
+Local:
+   com\ai\aspire\authentication\IAuthentication1.java
+   com\ai\aspire\authentication\ISessionInit.java
+   com\ai\common\DDictionary.java
+   com\ai\common\HashtableDictionary.java
+   com\ai\common\IDictionary.java
+   com\ai\htmlgen\UpdateFormHandlerAdapter.java
+   com\ai\jawk\CmdSubst.java
+   com\ai\jawk\Gres.java
+   com\ai\jawk\IEvaluator.java
+   com\ai\jawk\Program.java
+   com\ai\jawk\WordEvaluator.java
+   com\ai\servlets\AspireServletException.java
+   com\ai\servlets\DUpdateServletRequestFailureResponse.java
+   com\ai\servlets\HttpRequestDictionary.java
+   com\ai\servlets\IServletRequestUpdateFailure.java
+   com\ai\servlets\RequestExecutorServletT1.java
+   com\ai\servlets\RetainUserInputFR.java
+   com\ai\servlets\SetHeaders.java
+
+
+Modified:
+   com/ai/aspire/AspireReleaseNotes.java
+   com/ai/aspire/AspireReleases.java
+   com/ai/common/MailUtils.java
+   com/ai/common/StringUtils.java
+   com/ai/db/DBBaseRequestExecutor.java
+   com/ai/db/DBRSCollection1.java
+   com/ai/htmlgen/GenericTableHandler3.java
+   com/ai/htmlgen/GenericTableHandler4.java
+   com/ai/htmlgen/IAIHttpTransform.java
+   com/ai/jawk/FileProcessor.java
+   com/ai/jsp/JSPTransform.java
+   com/ai/servlets/AspireConstants.java
+   com/ai/servlets/BaseServlet.java
+   com/ai/servlets/ClientSideRedirector.java
+   com/ai/servlets/DefaultRedirector.java
+   com/ai/servlets/DefaultSessionSupport.java
+   com/ai/servlets/ExternalRedirector.java
+   com/ai/servlets/IRedirector.java
+   com/ai/servlets/MultipartRequestExecutorServlet.java
+   com/ai/servlets/PageDispatcher.java
+   com/ai/servlets/PageDispatcherServlet.java
+   com/ai/servlets/ProfileEnabledServlet.java
+   com/ai/servlets/RequestExecutorServlet.java
+   com/ai/servletutils/PrintUtils.java
+   com/ai/servletutils/ServletUtils.java
+   com/ai/servletutils/SessionUtils.java
+   com/ai/test/TestMail.java
+   com/ai/testservlets/MultipartRequest.java
+   com/ai/testservlets/PopulateGroup1.java
+   com/ai/testservlets/PopulateGroup2.java
+   com/ai/testservlets/PopulateGroup3.java
+

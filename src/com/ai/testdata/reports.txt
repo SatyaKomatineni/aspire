@@ -1,0 +1,4 @@
+groupname|expand_command|url
+conveyances|GET_NONE|../general/litesearch.html
+equipment|GET_NONE|../general/litesearch.html
+vehicles|GET_NONE|../general/litesearch.html

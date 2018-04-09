@@ -1,0 +1,67 @@
+Difference Report
+Project: $/cb/com/ai
+Working Folder: G:\CB\com\ai
+
+Local:
+// Filter support in factory
+   application\defaultpkg\FilterEnabledFactory.java
+   data\Collection1DataFilter.java
+   data\IDataCollection1.java
+   application\test\test_easp.properties
+
+// XSL transform added
+   xml\XSLTransform.java
+
+// Utils.java added to support any functions that doesn't fit
+// anywhere else
+   common\Utils.java
+
+// Future caching support
+   servlets\AspireSession.java
+
+// Testing/Miscellaneous
+   testservlets\FileUploadServlet.java
+   testservlets\PageDispatcherServlet.java
+   testservlets\SentPage.java
+   xml\test\temp_tdsi_dwell_ramp_summary.html
+
+Project:
+   application/test/TestAppConfig_access.properties
+   application/test/TestAppConfig_oracle_satya.properties
+   application/test/TestAppConfig_oracle_shiva.properties
+   htmlgen/test/bkp
+   htmlgen/test/shiva
+
+Modified:
+
+// getValue with default no longer declares to throw an exception
+   application/interfaces/AConfig.java
+   application/interfaces/IConfig.java
+
+// Filter support
+   data/DataRow.java
+
+// Most of the following changes are due to changes in IConfig
+   db/ConnectionPoolConnectionManager1.java
+   db/DBPreTranslateArgsMultiRequestExecutor.java
+   docs/problems.xls
+   htmlgen/CFormHandlerWithControlHandlers.java
+   htmlgen/DBHashTableFormHandler.java
+   htmlgen/GenericFormHandler.java
+   htmlgen/GenericTableHandler1.java
+   htmlgen/IControlHandler1.java
+   htmlgen/test/out.html
+   htmlgen/test/selectpr.htm
+   htmlgen/test/TestFormHandler.java
+   importers/Importer.java
+   scheduler/BasicScheduler.java
+   servlets/BaseServlet.java
+   servlets/PageDispatcherServlet.java
+   servlets/ProfileEnabledServlet.java
+   servlets/RequestExecutorServlet.java
+   servlets/VerifyBaseServlet.java
+   servletutils/ServletUtils.java
+   test/TestCollection.java
+   xml/test/test.properties
+   xml/test/TestForm.htm
+

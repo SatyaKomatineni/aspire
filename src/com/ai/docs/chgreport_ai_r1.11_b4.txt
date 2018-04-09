@@ -1,0 +1,91 @@
+Difference Report ai_r1.11_b4
+
+Update summary for release ai_r1.11_b4
+***************************************
+1. Fixed the single quote problem in fields
+2. Introduced anykind of substitution
+3. Update howto document on how to specify this
+4. Default session support bugs
+5. BaseServlet now prints the exception on the screen
+6. Useful for PageDispatcher debugging. No more blank screen routine
+7. No caching turned on in most of the servlets.
+8. Verify base servlet now prints out headers
+
+File Summary
+**********
+Local:
+   common\OracleQuoteTranslator.java
+   common\SimpleQuoteTranslator.java
+   db\DBLoopRequestExecutor.java
+
+Project:
+
+Modified:
+   application/interfaces/IConfig.java
+   aspire/AspireReleases.java
+   common/SQLArgSubstitutor.java
+   docs/problems.xls
+   htmlgen/test/out.html
+   servlets/AspireConstants.java
+   servlets/BaseServlet.java
+   servlets/DefaultSessionSupport.java
+   servlets/MultipartRequestExecutorServlet.java
+   servlets/RequestExecutorServlet.java
+   servlets/VerifyBaseServlet.java
+   servletutils/PrintUtils.java
+   servletutils/ServletUtils.java
+   test/TestCollection.java
+   testservlets/PopulateGroup3.java
+
+Details
+********
+Local:
+	// Provide extra quote support
+	// Look into the howto document for more details
+   common\OracleQuoteTranslator.java
+   common\SimpleQuoteTranslator.java
+	// Provide a loop request executor
+	// Look into the howto doc or annotated properties file
+   db\DBLoopRequestExecutor.java
+
+Project:
+
+Modified:
+   application/interfaces/IConfig.java
+	// some documentation changes
+
+   aspire/AspireReleases.java
+	// Release information
+
+   common/SQLArgSubstitutor.java
+	// Dynamically loads the quote support
+	// part of the quote support feature
+
+   docs/problems.xls
+	// release information
+
+   servlets/AspireConstants.java
+	// Constants for quote support
+
+   servlets/BaseServlet.java
+	// Now prints the erros for Page dispatcher
+
+   servlets/DefaultSessionSupport.java
+	// A couple of bugs fixed default session support
+
+   servlets/MultipartRequestExecutorServlet.java
+	// No caching turned on 
+
+   servlets/RequestExecutorServlet.java
+	// No caching turned on
+
+   servlets/VerifyBaseServlet.java
+	// Prints out headers in addition to their names
+
+   servletutils/PrintUtils.java
+   servletutils/ServletUtils.java
+   test/TestCollection.java
+	// Updated 
+   testservlets/PopulateGroup3.java
+	// No caching turned on
+

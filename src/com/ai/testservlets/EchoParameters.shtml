@@ -1,0 +1,18 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<TITLE>
+EchoParameters
+</TITLE>
+</HEAD>
+<BODY>
+ launches servlet EchoParameters <BR>
+<SERVLET  code="com.ai.testservlets.EchoParameters.class">
+<BR>
+<table border=1><tr><td>
+If you see this message, the web server<BR>providing this page doesn't support servlets
+</td></tr></table>
+</SERVLET>
+</BODY>
+</HTML>
+ 

@@ -1,0 +1,59 @@
+Difference Report
+Project: $/aspire_projects/aspire_jsdk21
+Working Folder: G:\CB\ASPIRE_PROJECTS\ASPIRE_JSDK21
+
+Local:
+   com\ai\application\defaultpkg\SystemPropertiesInitializer.java
+   com\ai\application\defaultpkg\vssver.scc
+   com\ai\application\interfaces\IApplicationInitializer.java
+   com\ai\application\interfaces\ISelfSufficient.java
+   com\ai\application\interfaces\ITask.java
+   com\ai\application\interfaces\vssver.scc
+   com\ai\aspire\AspireReleases.~jav
+   com\ai\aspire\vssver.scc
+   com\ai\aspire\utils\MailRequestExecutor.java
+   com\ai\aspire\utils\TransformUtils.java
+   com\ai\common\MailSpec.java
+   com\ai\common\TransformException.java
+   com\ai\common\vssver.scc
+   com\ai\data\CachedDataRow.java
+   com\ai\data\PreTranslateArgsMultiRequestExecutor.java
+   com\ai\data\vssver.scc
+   com\ai\db\vssver.scc
+   com\ai\htmlgen\AAspireUpdateHandler.java
+   com\ai\htmlgen\ADataCollectionProducer.java
+   com\ai\htmlgen\AITransform5.java
+   com\ai\htmlgen\AITransform6.java
+   com\ai\htmlgen\AspireColorFilter.java
+   com\ai\htmlgen\DefaultTotalsCalculator.java
+   com\ai\htmlgen\GenericTableHandler31.java
+   com\ai\htmlgen\GenericTableHandler5.java
+   com\ai\htmlgen\IAspireUpdateHandler.java
+   com\ai\htmlgen\IColumnFilter.java
+   com\ai\htmlgen\IDataCollectionProducer.java
+   com\ai\htmlgen\IDataCollectionTask.java
+   com\ai\htmlgen\ILoopRandomIterator.java
+   com\ai\htmlgen\RandomTableHandler5.java
+   com\ai\htmlgen\test\vssver.scc
+   com\ai\servlets\vssver.scc
+   com\ai\test\vssver.scc
+   com\ai\testservlets\vssver.scc
+   com\ai\xml\XMLUtils.java
+
+Project:
+   com/csx
+
+Modified:
+   com/ai/common/FileUtils.java
+   com/ai/common/MailUtils.java
+   com/ai/db/DBPreTranslateArgsMultiRequestExecutor.java
+   com/ai/htmlgen/AReportCalculator.java
+   com/ai/htmlgen/GenericTableHandler4.java
+   com/ai/htmlgen/ILoopForwardIterator.java
+   com/ai/htmlgen/IReportTotalsCalculator.java
+   com/ai/htmlgen/test/TestReportCalculator.java
+   com/ai/servlets/AppInitServlet1.java
+   com/ai/servlets/ProfileEnabledServlet.java
+   com/ai/servletutils/ServletUtils.java
+   com/ai/xml/XSLTransform.java
+
