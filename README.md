@@ -6,6 +6,7 @@ Declarative, Procedural, OOP: All first class citizens
 
 #History
 Since 2005
+MIT License
 
 #Primary Features
 1. Declarative Hierarchical Data sets
