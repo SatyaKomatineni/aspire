@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <jardesc>
-    <jar path="c:/satya/data/codebase/jars/aspire/aspire_jsdk23.jar"/>
+    <jar path="aspire/output-jars/aspire_jsdk23.jar"/>
     <options overwrite="true" compress="true" exportErrors="true" 
              exportWarnings="true" saveDescription="true" 
              descriptionLocation="/aspire/jar-gen/aspire_jsdk23.jardesc" 
