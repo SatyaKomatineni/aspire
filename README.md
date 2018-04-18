@@ -30,5 +30,32 @@ MIT License
 6. File readers
 7. Relational plugin framework
 8. XML, Java, JSON and other hierarchical outputs
-9. Type faces to project on to data objects 
+9. Type faces to project on to data objects
+10. Completely cursor based
+
+#UX
+1. Any template engine on server or client will do
+2. JSP
+3. In built HTML transforms from hierarchical data sets
+4. XSLT (Old, but available)
+5. Template Servers for reusable UX
+6. REST API with XML, JSON, XML to JSON
+7. Should be able to plugin React or any client side framework  
+8. Basic server side Master pages
+9. Generic transforms without object realization
+
+#Web
+1. Auth plug in framework
+2. HTML Event interceptors
+3. Typed event multiplexors
+
+#Extraneous uses (Just a Jar)
+1. Command line utilities
+2. Batch files via tasks
+3. Basic ETL
+
+#For Universities and Students
+1. Easy to learn
+2. Playground for new architectures
+3. General purpose computing platform for web and mobile
   
