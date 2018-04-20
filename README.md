@@ -1,10 +1,10 @@
 # aspire
 A java based web declarative framework
 
-#Philospy
+# Philospy
 Declarative, Procedural, OOP: All first class citizens
 
-#History
+# History
 Since 2005
 MIT License
 Over 200 builds
