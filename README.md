@@ -9,7 +9,7 @@ Since 2005
 MIT License
 Over 200 builds
 
-#Primary Features
+# Primary Features
 1. Declarative Hierarchical Data sets
 2. Automatic B2B and B2C
 3. Declarative Read and write APIs
@@ -19,7 +19,7 @@ Over 200 builds
 7. Full backward compatibility across builds
 8. Computational Logic = Declarative (or)/(and) Procedural (or/and) functional (or/and) OOP
 
-#Core Framework
+# Core Framework
 1. Unified configuration
 2. Unified logging
 3. Unified Object/task factory
