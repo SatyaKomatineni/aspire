@@ -24,7 +24,7 @@ Over 200 builds
 2. Unified logging
 3. Unified Object/task factory
 
-#Data Access
+# Data Access
 1. Declarative Relational Data sets
 2. Declarative Hierarchical Data sets
 3. Auto transactions
@@ -36,7 +36,7 @@ Over 200 builds
 9. Type faces to project on to data objects
 10. Completely cursor based
 
-#Business Logic
+# Business Logic
 1. Declarative Connectors
 2. Declarative Task Pipelines
 3. Auto Transactions
@@ -44,7 +44,7 @@ Over 200 builds
 5. Programmatic equivalence to Declarative task pipelines
 6. Type faces for projecting objects
 
-#UX
+# UX
 1. Any template engine on server or client will do
 2. JSP
 3. In built HTML transforms from hierarchical data sets
@@ -55,23 +55,23 @@ Over 200 builds
 8. Basic server side Master pages
 9. Generic transforms without object realization
 
-#Web
+# Web
 1. Auth plug in framework
 2. HTML Event interceptors
 3. Typed event multiplexors
 4. Resource counting and recovery
 
-#Extraneous uses (Just a Jar)
+# Extraneous uses (Just a Jar)
 1. Command line utilities
 2. Batch files via tasks
 3. Basic ETL
 
-#For Universities and Students
+# For Universities and Students
 1. Easy to learn
 2. Playground for new architectures
 3. General purpose computing platform for web and mobile
   
-#Future (Speculative at best)
+# Future (Speculative)
 1. Move to Github
 2. Non-blocking
 3. Anticipate mistakes
