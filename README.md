@@ -2,7 +2,8 @@
 A java based web declarative framework
 
 # Philosophy
-Declarative, Procedural, OOP: All first class citizens
+1. Declarative, Procedural, OOP: All first class citizens
+2. Programming should not be hard. Should enable right to work!
 
 # History
 Since 2005
