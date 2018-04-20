@@ -1,7 +1,7 @@
 # aspire
 A java based web declarative framework
 
-# Philospy
+# Philosophy
 Declarative, Procedural, OOP: All first class citizens
 
 # History
